@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Time to criterion latent growth models."
 collection: publications
 permalink: /publication/2019-04-19-time-to-criterion
 excerpt: 'Time to Criterion latent growth models.'
