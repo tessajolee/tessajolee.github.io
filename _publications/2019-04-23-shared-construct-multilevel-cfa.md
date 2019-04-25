@@ -1,5 +1,5 @@
 ---
-title: "Models to examine the validity of cluster-level factor structure using individual-level data"
+title: "Models to examine the validity of cluster-level factor structure using individual-level data."
 collection: publications
 permalink: /publication/2019-04-23-shared-construct-multilevel-cfa
 excerpt: 'We present best-practice modeling strategies for multilevel confirmatory factor analysis models with shared cluster-level constructs.'
