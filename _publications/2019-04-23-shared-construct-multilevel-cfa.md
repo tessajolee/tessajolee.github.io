@@ -3,7 +3,7 @@ title: "Models to examine the validity of cluster-level factor structure using i
 collection: publications
 permalink: /publication/2019-04-23-shared-construct-multilevel-cfa
 excerpt: 'We present best-practice modeling strategies for multilevel confirmatory factor analysis models with shared cluster-level constructs.'
-date: 2015-10-01
+date: 2019-04-23
 venue: 'Advances in Methods and Practices in Psychological Science'
 paperurl: 'http://tessajolee.github.io/files/stapletonjohnson2019.pdf'
 citation: 'Stapleton, L. M. & Johnson, T. L. (In Press). Models to examine the validity of cluster-level factor structure using individual-level data; <i>Advances in Methods and Practices in Psychological Science</i>.'
