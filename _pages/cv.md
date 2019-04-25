@@ -36,9 +36,11 @@ Talks
   
 Teaching
 <>======
+<>
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+<>
   
 Service and leadership
 ======
