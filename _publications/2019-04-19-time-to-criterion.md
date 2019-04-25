@@ -2,7 +2,7 @@
 title: "Time to criterion latent growth models."
 collection: publications
 permalink: /publication/2019-04-19-time-to-criterion
-excerpt: 'Time to Criterion (T2C) latent growth models allow researchers to directly model the time it takes for individuals to achieve criteria of interest within a larger structural equation modeling framework. T2C models do not require discretization of data, as do survival models, and they yield flexibility in specification of a theoretical change process.'
+excerpt: 'Time to Criterion (T2C) latent growth models allow researchers to directly model the time it takes for individuals to achieve criteria of interest. T2C models do not require discretization of data, as do survival models, and they yield flexibility in specification of a theoretical change process by placing "time" within the larger structural equation modeling framework.'
 date: 2019-04-19
 venue: 'Psychological Methods'
 paperurl: 'http://dx.doi.org/10.1037/met0000214'
