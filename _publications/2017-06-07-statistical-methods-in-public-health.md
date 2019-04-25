@@ -2,7 +2,7 @@
 title: "Statistical methods used in the public health literature and implications for training of public health professionals."
 collection: publications
 permalink: /publication/2017-06-07-statistical-methods-in-public-health
-excerpt: 'Statistical literacy and knowledge is needed to read and understand the public health literature. The purpose of this study was to quantify basic and advanced statistical methods used in public health research.'
+excerpt: 'Statistical literacy and knowledge is needed to read and understand the public health literature. We examined 216 articles published in the top seven public health journals to understand which methods are commonly used by scholars in public health with the aim of providing evidence for future biostatistics curriculum development and accreditation standards.'
 date: 2017-06-07
 venue: 'PLoS one'
 paperurl: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0179032'
