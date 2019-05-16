@@ -1,0 +1,1 @@
+Bonnéry, D., Feng, Y., Henneberger, A. K., Johnson, T., Lachowicz, M., Rose, B. A., Shaw, T.,  Stapleton, L. M., Woolley, M. E., Zheng, Y. (in press). The promise and limitations of synthetic data as a strategy to expand access to state-level multi-agency longitudinal data. Journal of Research on Educational Effectiveness.  Note: authors listed in alphabetical order
