@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tessa Lee Johnson"
+title                    : "Tessa L. Johnson"
 title_separator          : "-"
-name                     : &name "Tessa Lee Johnson"
+name                     : &name "Tessa L. Johnson"
 description              : &description "Quant methods doctoral student."
 url                      : https://tessajolee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tessa Lee Johnson"
+  name             : "Tessa L. Johnson"
   avatar           : "biophoto_2018_TJohnson.png"
   bio              : "PhD student in quantitative methods. Interests: longitudinal modeling, social network data, clustering and classification."
   location         : "University of Maryland, College Park"
