@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-05-16-synthesization-of-longitudinal-data
 excerpt: 'We present a case study in the development of a synthetic data system designed to expand access to multi-agency longitudinal data, and we highlight the role of synthetic data in addressing questions of interest in policy and program evaluation.'
 date: 2019-05-16
-venue: 'Advances in Methods and Practices in Psychological Science'
+venue: 'Journal of Research on Educational Effectiveness'
 paperurl: ''
 citation: 'Bonnéry, D., Feng, Y., Henneberger, A. K., Johnson, T. L., Lachowicz, M., Rose, B. A., Shaw, T.,  Stapleton, L. M., Woolley, M. E., Zheng, Y. (In Press). The promise and limitations of synthetic data as a strategy to expand access to state-level multi-agency longitudinal data. <i>Journal of Research on Educational Effectiveness</i>. Note: authors listed in alphabetical order.'
 ---
