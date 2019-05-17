@@ -46,4 +46,4 @@ Teaching
 
 Service and leadership
 ======
-* 2019-2020 AERA Graduate Student Council, <a href="http://www.aera.net/About-AERA/Member-Constituents/Graduate-Student-Council/GSC-Welcome-Message">Chair-Elect</a>)
+* 2019-2020 AERA Graduate Student Council, <a href="http://www.aera.net/About-AERA/Member-Constituents/Graduate-Student-Council/GSC-Welcome-Message">Chair-Elect</a>
