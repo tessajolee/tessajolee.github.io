@@ -5,7 +5,7 @@ permalink: /sitemap/
 author_profile: true
 ---
 
----
+This is merely a test.
 
 <!--
 {% include base_path %}
