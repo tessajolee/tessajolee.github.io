@@ -11,7 +11,7 @@ title                    : "Tessa L. Johnson"
 title_separator          : "-"
 name                     : &name "Tessa L. Johnson"
 description              : &description "Quant methods doctoral student."
-url                      : https://tessajolee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://tessajolee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tessajolee/tessajolee.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -20,16 +20,16 @@ words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
-comments:
-  provider               : false # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            :
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+#comments:
+#  provider               : false # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+#  disqus:
+#    shortname            :
+#  discourse:
+#    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+#  facebook:
+#    appid                :
+#    num_posts            : # 5 (default)
+#    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -50,32 +50,32 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
+#google_site_verification :
+#bing_site_verification   :
+#alexa_site_verification  :
+#yandex_site_verification :
 
 # Social Sharing
 twitter:
   username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+#facebook:
+#  username               :
+#  app_id                 :
+#  publisher              :
+#og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+#social:
+#  type                   : # Person or Organization (defaults to Person)
+#  name                   : # If the user or organization name differs from the site's name
+#  links: # An array of links to social media profiles
 
 
 # Analytics
-analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
+#analytics:
+#  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+#  google:
+#    tracking_id          :
 
 
 # Site Author
@@ -136,9 +136,9 @@ exclude:
   - LICENSE
   - README
   - Rakefile
-  #- assets/js/_main.js
-  #- assets/js/plugins
-  #- assets/js/vendor
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
   - config
   - gulpfile.js
   - log
@@ -175,18 +175,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
+#  teaching:
+#    output: false
+#    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
+#  portfolio:
+#    output: false
+#    permalink: /:collection/:path/
+#  talks:
+#    output: false
+#    permalink: /:collection/:path/
 
 
 # Defaults
@@ -203,12 +203,12 @@ defaults:
   #    share: false
   #    related: false
   # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+  #- scope:
+  #    path: ""
+  #    type: pages
+  #  values:
+  #    layout: single
+  #    author_profile: true
   # _teaching
   #- scope:
   #    path: ""
@@ -225,8 +225,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _portfolio
   #- scope:
   #    path: ""
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
