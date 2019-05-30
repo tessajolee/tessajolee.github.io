@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Sitemap"
-permalink: /sitemap/
+title: "Sitemap_DEFUNCT"
+permalink: /sitemap-DEFUNCT/
 author_profile: true
 ---
 
