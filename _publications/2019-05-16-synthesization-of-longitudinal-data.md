@@ -1,7 +1,7 @@
 ---
 title: "The promise and limitations of synthetic data as a strategy to expand access to state-level multi-agency longitudinal data."
 collection: publications
-permalink: /publication/2019-05-16-synthesization-of-longitudinal-data
+permalink: /publications/2019-05-16-synthesization-of-longitudinal-data
 excerpt: 'We present a case study in the development of a synthetic data system designed to expand access to multi-agency longitudinal data, and we highlight the role of synthetic data in addressing questions of interest in policy and program evaluation.'
 date: 2019-05-16
 venue: 'Journal of Research on Educational Effectiveness'
