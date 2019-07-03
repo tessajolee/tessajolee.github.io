@@ -1,7 +1,7 @@
 ---
 title: "Statistical methods used in the public health literature and implications for training of public health professionals."
 collection: publications
-permalink: /publications/2017-06-07-statistical-methods-in-public-health.html
+permalink: /publications/2017-06-07-statistical-methods-in-public-health.md
 excerpt: 'Statistical literacy and knowledge is needed to read and understand the public health literature. We examined 216 articles published in the top seven public health journals to understand which methods are commonly used by scholars in public health.'
 date: 2017-06-07
 venue: 'PLoS one'
