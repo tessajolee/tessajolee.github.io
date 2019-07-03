@@ -1,7 +1,7 @@
 ---
 title: "Two-Way Analysis of Variance."
 collection: publications
-permalink: /publication/2018-06-05-two-way-analysis-of-variance
+permalink: /publications/2018-06-05-two-way-analysis-of-variance
 excerpt: 'This entry describes the data analytic context for two-way analysis of variance (ANOVA) and the logic behind its implementation.'
 date: 2018-06-05
 venue: 'The SAGE Encyclopedia of Educational Research, Measurement, and Evaluation'
